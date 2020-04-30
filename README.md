@@ -14,4 +14,4 @@ enable.xml:
 
 Example screenshot:
 
-![screenshot](./guestshell.jpg)
+![screenshot](./12_01_59.jpg)
