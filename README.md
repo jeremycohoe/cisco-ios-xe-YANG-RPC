@@ -11,3 +11,7 @@ disable.xml:
 
 enable.xml:
 ```<guestshell xmlns="http://cisco.com/ns/yang/Cisco-IOS-XE-rpc"><enable/></guestshell>```
+
+Example screenshot:
+
+![screenshot](./guestshell.jpg)
