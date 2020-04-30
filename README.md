@@ -7,4 +7,4 @@ disable.xml:
 ```<guestshell xmlns="http://cisco.com/ns/yang/Cisco-IOS-XE-rpc"><disable/></guestshell>```
 
 enable.xml:
-```<guestshell xmlns="http://cisco.com/ns/yang/Cisco-IOS-XE-rpc"><disable/></guestshell>```
+```<guestshell xmlns="http://cisco.com/ns/yang/Cisco-IOS-XE-rpc"><enable/></guestshell>```
